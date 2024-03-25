@@ -5,14 +5,14 @@ Home
 		colors
 	links
 	about us
-	team management
+	team management/
 	product offered
 		links
 	addtional information
 
 About 
-	team management
-		information
+	team management/
+		information/
 	design
 		images
 		colors
@@ -20,7 +20,7 @@ About
 Products
 	foooter 
 		quik links
-		brand offered--
+		brand offered/
 	design
 		images
 		colors
