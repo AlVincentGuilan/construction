@@ -16,15 +16,14 @@ About
 	design
 		images
 		colors
-	vision & mission
-Products
+	vision & mission/
 	foooter 
 		quik links
 		brand offered/
 	design
 		images
 		colors
-	products
+products
 		images
 		names
 		brands
