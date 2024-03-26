@@ -100,7 +100,7 @@
   position: relative;
 }
 .main__menu > li:hover > a{
-  color: #000000;
+  color: #ff6600;
 }
 .logo a{
   display: block;
