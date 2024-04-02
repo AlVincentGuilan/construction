@@ -331,10 +331,10 @@ body {
   09. Text Color
 --------------------------------*/
 .text--theme { 
-  color: #ff6600;
+  color: #1F4172;
  }
 .text--blue { 
-  color: #ff6600;
+  color: #1F4172;
  }
 .text--white { 
   color: #fff ;
@@ -369,7 +369,7 @@ body {
 [data__overlay]:before {
     position: absolute;
     content: '';
-    background: #3f51b5;
+    background: #1F4172;
     width: 100%;
     height: 100%;
     top: 0;
@@ -525,7 +525,7 @@ body {
 [data--theme__overlay]:before {
     position: absolute;
     content: '';
-    background: #ff6600;
+    background: #1F4172;
     width: 100%;
     height: 100%;
     top: 0;
